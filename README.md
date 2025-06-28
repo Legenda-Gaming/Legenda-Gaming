@@ -1,4 +1,4 @@
-![image](https://github.com/Legenda-Gaming/Legenda-Gaming/assets/170621683/6c5a9ea9-8e7a-43e2-9b18-aac6f4f0ea46)
+![image]([https://github.com/Legenda-Gaming/Legenda-Gaming/assets/170621683/6c5a9ea9-8e7a-43e2-9b18-aac6f4f0ea46](https://legenda-rp.de/wp-content/uploads/2025/06/oie_ek.png))
 - 👋 Hi, I’m @Legenda-Gaming
 
 > [!NOTE]
