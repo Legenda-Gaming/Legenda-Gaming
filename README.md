@@ -1,4 +1,6 @@
 👋 Willkommen bei Legenda-RP.de
+
+
 ⚠️ Hinweis
 Die hier bereitgestellten Dateien sind exklusiv für unseren Server.
 Ihr könnt sie kostenlos herunterladen und verwenden – sie sind für unsere Community gedacht.
