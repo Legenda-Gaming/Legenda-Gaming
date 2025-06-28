@@ -1,20 +1,21 @@
-![image]([https://github.com/Legenda-Gaming/Legenda-Gaming/assets/170621683/6c5a9ea9-8e7a-43e2-9b18-aac6f4f0ea46](https://legenda-rp.de/wp-content/uploads/2025/06/oie_ek.png))
-- 👋 Hi, I’m @Legenda-Gaming
+👋 Willkommen bei Legenda-RP.de
+⚠️ Hinweis
+Die hier bereitgestellten Dateien sind exklusiv für unseren Server.
+Ihr könnt sie kostenlos herunterladen und verwenden – sie sind für unsere Community gedacht.
 
-> [!NOTE]
->Es sind private Dateien für unseren Server, Ihr könnt es gern kostenlos runterladen.
-> 
-> Dies ist das offizielle Serverpaket privates  für 𝕃𝕖𝕘𝕖𝕟𝕕𝕒 Server.
+📦 Dies ist das offizielle, private Serverpaket für den 𝕃𝕖𝕘𝕖𝕟𝕕𝕒 Roleplay Server.
 
-> [!TIP]
-> Es wäre Nett eine kleine Spende zu hinterlassen.
+💡 Tipp
+Wenn dir unser Projekt gefällt, freuen wir uns über eine kleine Unterstützung.
+Du kannst uns gern eine freiwillige Spende hinterlassen.
 
-> [!WARNING]
-> Wir weisen euch darauf hin, dass jede Spende freiwillig ist und nicht Rückerstattet werden kann.
-Eine Spende ist eine Schenkung in Sinne von § 516 BGB.
-> 
-> Jede Spende wird über die Firma Dev Digital verrechnet.
-> [Spenden](https://www.paypal.com/donate/?hosted_button_id=GW5N5S8XTCHLU)
+Jetzt spenden 💸
+
+⚠️ Wichtiger Hinweis zur Spende
+Jede Spende ist freiwillig und wird nicht rückerstattet.
+Es handelt sich rechtlich um eine Schenkung gemäß § 516 BGB.
+
+Die Spenden werden über die Firma Dev Digital abgewickelt.
 
 
 
